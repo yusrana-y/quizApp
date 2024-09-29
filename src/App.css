@@ -1,0 +1,11 @@
+body{
+  /* background-image: url("https://img.freepik.com/free-vector/line-style-question-mark-sign-background-with-text-space_1017-55280.jpg?t=st=1727602941~exp=1727606541~hmac=63c40555050e5ef2d56961df9ed1c24682dbbcf48d8d0ec48348cb6a473d485d&w=900"); */
+  background-image: url("https://img.freepik.com/free-psd/3d-rendering-questions-background_23-2151455640.jpg?t=st=1727603924~exp=1727607524~hmac=00eb5e1759d894310a6c6b2b073cd153c4b04c7c105dbeed8286fd3ad4dbcd72&w=1060");
+  /* background-image: url("https://img.freepik.com/free-vector/hand-drawn-question-mark-pattern_23-2149416651.jpg?t=st=1727603429~exp=1727607029~hmac=0c4476219c97ed978578475c6241f433923cac7726740e47767c0d6912038cde&w=740"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
